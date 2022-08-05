@@ -5,8 +5,8 @@
 #
 # Uncomment the lines below if you are using Sage 10
 # and replace `sage` with your theme folder
-
----
+#
+# ---
 - name: Install npm dependencies
   command: yarn
   delegate_to: localhost
