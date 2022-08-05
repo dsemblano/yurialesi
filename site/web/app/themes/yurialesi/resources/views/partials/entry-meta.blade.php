@@ -1,4 +1,4 @@
-<time class="updated tracking-widest text-yuriblue text-xs font-medium title-font" datetime="{{ get_post_time('c', true) }}">
+<time class="updated tracking-widest text-yurigreen text-xs font-medium title-font" datetime="{{ get_post_time('c', true) }}">
   {{ get_the_date() }}
 </time>
 
