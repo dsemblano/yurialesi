@@ -5,7 +5,7 @@
     <img class="block lg:hidden rounded-tl-extraLarge rounded-br-extraLarge" width="834" height="834" alt="Imagem Yuri Alesi principal na home" src="@asset('images/perfil.jpg')" />
     <article class="mt-8 mb-8 prose lg:prose-2xl  prose-a:text-blue-800 prose-a:no-underline hover:prose-a:text-blue-500 hover:prose-a:underline">
       <p class="leading-normal text-xl mb-8">
-        Pré-candidato a Deputado Federal pelo <a class="underline" target="_blank" href="https://ptb.org.br">PTB
+        Candidato a Deputado Federal pelo <a class="underline" target="_blank" href="https://ptb.org.br">PTB
           Amapá</a> e Vereador da terra mais linda e setentrional do Brasil, Oiapoque ❤️
         Advogado de carreira e servo do Deus Vivo!</p>
       <p class="leading-normal text-xl mb-8">
