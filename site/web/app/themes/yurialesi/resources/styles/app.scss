@@ -3,10 +3,11 @@
 @import 'tailwindcss/utilities';
 
 // Variables must reflect tailwind.config.js
-$pros90orange: #F6913A;
-$pros90blue: #001D3D;
-$pros90lightblue: #263C76;
-$pros90gray: #F4F4F4;
+$yuriorange: #F6913A;
+$yuriblue: #001D3D;
+$yurilightblue: #263C76;
+$yurigray: #F4F4F4;
+$yurigreen: #163B24;
 
 // Mixins
 %imgeffect {
@@ -50,7 +51,7 @@ $pros90gray: #F4F4F4;
 }
 
 body {
-  // @apply bg-pros90gray;
+  // @apply bg-yurigray;
   background-color: white;
 }
 
@@ -164,7 +165,7 @@ body {
     }
 
     .wpcf7-submit {
-      @apply text-white bg-pros90blue hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium  text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800;
+      @apply text-white bg-yuriblue hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium  text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800;
     }
 
     .wpcf7-response-output {
@@ -505,7 +506,7 @@ ul.wp-block-social-links {
 .shareaholic-recommendation-article-title {
   text-decoration: none;
   font-size: 1rem !important;
-  color: $pros90lightblue !important;
+  color: $yurigreen !important;
 
   &:hover {
     text-decoration: underline;

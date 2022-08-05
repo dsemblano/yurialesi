@@ -6,10 +6,11 @@ module.exports = {
     },
     extend: {
       colors: {
-        pros90orange: '#F6913A',
-        pros90blue: '#001d3d',
-        pros90lightblue: '#263C76',
-        pros90gray: '#F9F9F9',
+        yurigreen: '#163B24',
+        yuriorange: '#F6913A',
+        yuriblue: '#001d3d',
+        yurilightblue: '#263C76',
+        yurigray: '#F9F9F9',
       },
       borderRadius: {
         extraLarge: '12rem'
