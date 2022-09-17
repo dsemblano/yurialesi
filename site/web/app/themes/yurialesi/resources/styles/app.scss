@@ -491,6 +491,14 @@ ul.wp-block-social-links {
   @apply prose;
 }
 
+.wp-block-gallery.has-nested-images figure.wp-block-image figcaption {
+  background: none;
+  color: #374151;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+}
+
 // O Partido page
 .o-partido {
   .wp-block-image,
