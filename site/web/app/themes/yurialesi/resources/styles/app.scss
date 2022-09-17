@@ -9,6 +9,12 @@ $yurilightblue: #263C76;
 $yurigray: #F4F4F4;
 $yurigreen: #163B24;
 
+// Fonts
+@font-face {
+  font-family: 'AileronHeavyItalic';
+  src: url('~@fonts/Aileron-HeavyItalic.otf') format("opentype");
+}
+
 // Mixins
 %imgeffect {
   -webkit-transform:scale(1);
@@ -53,6 +59,10 @@ $yurigreen: #163B24;
 body {
   // @apply bg-yurigray;
   background-color: white;
+}
+
+h1 {
+  font-family: 'AileronHeavyItalic';
 }
 
 // Menu
