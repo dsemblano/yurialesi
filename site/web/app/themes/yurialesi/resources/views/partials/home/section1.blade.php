@@ -20,8 +20,8 @@
     </article>
   </div>
     <!--Right Col desktop -->
-  <div class="social hidden lg:block w-full pl-48">
-    <img class="z-50 hidden lg:block rounded-lg" width="600" height="718" alt="Imagem Yuri Alesi principal na home" src="@asset('images/perfil.jpg')" />
+  <div class="social hidden lg:block">
+    <img class="z-50 hidden lg:block rounded-lg" width="800" alt="Imagem Yuri Alesi principal na home" src="@asset('images/perfil.jpg')" />
     {{-- <h2>Entre em contato</h2>
     @php(dynamic_sidebar('textos-primary')) --}}
   </div>
