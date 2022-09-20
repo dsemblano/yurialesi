@@ -7,6 +7,6 @@
 @section('content')
     @include('partials/home.section1')
     {{-- {!! do_shortcode('[wdi_feed id="1"]') !!} --}}
-    {!! do_shortcode('[instagram-feed feed=1]') !!}
+    {!! do_shortcode('[instagram-feed feed=1 class="container"]') !!}
     {{-- {!! do_shortcode('[contact-form-7 id="20" title="Formulario"]') !!} --}}
 @endsection
